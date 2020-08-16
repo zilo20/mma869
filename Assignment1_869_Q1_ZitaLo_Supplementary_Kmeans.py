@@ -4,7 +4,7 @@
 # Cohort: Winter 2021
 # Course Number: MMA 869
 # Date: August 13, 2020
-
+#
 
 # Answer to Question 1
 # See Assignment1_869_Q1_ZitaLo.py for Final Result
